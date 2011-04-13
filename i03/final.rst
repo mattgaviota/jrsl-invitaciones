@@ -1,17 +1,15 @@
-Dear MadDog
+========================================================
+Uitnodiging voor "Jornadas Regionales de Software Libre"
+========================================================
 
 This year our LUG accepts the responsibility of organizing one of the most
-importants FOSS events in the region.
-
-We want to count on the presence of one of the most active and recognized
-FOSS advocate as a guest speaker. So we invite you to participate again in
-this event.
+importants FOSS events in the region and we want to count on the presence of
+our favorite BDFL as guest speaker. So we invite you to participate in this
+event.
 
 Your presence will be very well received and very significant support for the
-event and its organization.
-
-We look forward to your response. Please send us any questions or concerns if
-you have.
+event and its organization. We look forward to your response. Please send us
+any questions or concerns if you have.
 
 We also add some information about us and about the event.
 
@@ -26,12 +24,13 @@ We are a group of friends and co-workers, an open community that has a very
 informal organization with a democratic functioning.
 
 Our main activities are:
- - Translation of documentation into Spanish
- - Regularly scheduled formal meetings
- - Participate in development projects
- - Organization of events to publicize and promote
- - Organization of courses and workshops
- - Meetings recreation (soccer matches and barbecues)
+
+- Meetings recreation (soccer matches and barbecues)
+- Organization of courses and workshops
+- Organization of events to publicize and promote
+- Participate in development projects
+- Regularly scheduled formal meetings
+- Translation of documentation into Spanish
 
 
 About the event
@@ -61,23 +60,13 @@ Difussion
 We are committed in bringing FOSS solutions to as many people as we can. For
 this pourpose we will publicize and diffuse this event the best way possible. 
 
- - Our event counts on the support of the `UNCI`_ network which brings it to
-   stundents and professionals of 33 National Universities.
- - We will have media support from TV, radio and print advertising and
-   broadcast.
- - It will be widely spread through all digital media at our disposition: web
-   pages, mailing lists, personal blogs, so on.
+- Our event counts on the support of the `UNCI`_ network which brings it to
+  stundents and professionals of 33 National Universities.
+- We will have media support from TV, radio and print advertising and
+  broadcast.
+- It will be widely spread through all digital media at our disposition: web
+  pages, mailing lists, personal blogs, so on.
 
 .. _Saltalug: http://saltalug.org.ar
 .. _Jornadas Regionales de Software Libre: http://jornadasregionales.org
 .. _UNCI: http://redunci.info.unlp.edu.ar/
-
--- 
-/* ************************************************************
-Carlos Marcelo Cabrera, alias "Point to null"
-Medios de contacto adicionales:
-    Weblog: http://pointtonull.com.ar
-    Jabber: point_to_null@esdebian.org
-    Yahoo: dxm84ar@yahoo.com.ar
-    ICQ: 303014677 
-************************************************************ */
